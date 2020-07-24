@@ -1,4 +1,4 @@
-# Hi, I'm Freedom :wave:
+# Hi, I'm Freedom <img src="https://media.giphy.com/media/SuZY20qLNE3Hq/giphy.gif" width="75">
 
 
 
