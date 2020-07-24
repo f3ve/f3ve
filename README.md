@@ -1,6 +1,6 @@
 # Hi, I'm Freedom <img src="https://media.giphy.com/media/SuZY20qLNE3Hq/giphy.gif" width="80">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="code gif" align="right">
+<img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" alt="code gif" align="right" width="300">
 
 ###  **I'm a Full Stack Web Developer and I love cats.**
 
@@ -10,5 +10,7 @@
 - <img src="https://media.giphy.com/media/YYbecrFqO7UUE/giphy.gif" width="30"> I love contributing to open source!
 - <img src="https://media.giphy.com/media/1zjQF9DKLMO31jylKs/giphy.gif" width="30"> Find me around the internet: [Portfolio](https://f3ve.github.io/my-portfolio/), [LinkedIn](https://www.linkedin.com/in/freedom-evenden-dev/), [Medium](https://medium.com/@f3ve), [Twitter](https://twitter.com/tf3ve)
 - <img src="https://media.giphy.com/media/H6cwcPFMhZtrkRd56A/giphy.gif" width="30"> Pronouns: He/Him/His
+
+<img src="https://media.giphy.com/media/3o7btYqnwdiQ7UmvU4/giphy.gif" alt="code gif" align="right" width="300">
 
 [![Freedom's github stats](https://github-readme-stats.vercel.app/api?username=f3ve)](https://github.com/f3ve/github-readme-stats)
