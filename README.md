@@ -2,24 +2,22 @@
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="code gif" align="right" width="300">
 
-### I'm a Full Stack Web Developer and I love cats.
-
 <a href="https://www.linkedin.com/in/freedom-evenden-dev/">
-  <img src="https://github.com/f3ve/f3ve/blob/master/assests/LinkedIn.svg" width="30" align="left"/>
+  <img src="https://github.com/f3ve/f3ve/blob/master/assests/LinkedIn.svg" width="30"/>
 </a>
 <a href="https://medium.com/@f3ve">
-  <img src="https://github.com/f3ve/f3ve/blob/master/assests/medium.svg" width="30" align="left"/>
+  <img src="https://github.com/f3ve/f3ve/blob/master/assests/medium.svg" width="30"/>
 </a>
 <a href="https://twitter.com/tf3ve">
-  <img src="https://github.com/f3ve/f3ve/blob/master/assests/twitter.svg" width="30" align="left"/>
+  <img src="https://github.com/f3ve/f3ve/blob/master/assests/twitter.svg" width="30"/>
 </a>
 <a href="https://f3ve.github.io/my-portfolio/">
-  <img src="https://github.com/f3ve/f3ve/blob/master/assests/portfolio.svg" width="30" align="left"/>
+  <img src="https://github.com/f3ve/f3ve/blob/master/assests/portfolio.svg" width="30"/>
 </a>
 
 <br />
 
-#### _About Me:_
+### I'm a Full Stack Web Developer and I love cats.
 
 - <img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="30"> I'm a recent graduate from Thinkful's Full Stack Engineering program
 - <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="30"> I'm a life-long learner, currently teaching myself SSR and how to create node modules.
