@@ -11,6 +11,16 @@
 - <img src="https://media.giphy.com/media/1zjQF9DKLMO31jylKs/giphy.gif" width="30"> Find me around the internet: [Portfolio](https://f3ve.github.io/my-portfolio/), [LinkedIn](https://www.linkedin.com/in/freedom-evenden-dev/), [Medium](https://medium.com/@f3ve), [Twitter](https://twitter.com/tf3ve)
 - <img src="https://media.giphy.com/media/H6cwcPFMhZtrkRd56A/giphy.gif" width="30"> Pronouns: He/Him/His
 
+### *Languages and Tools:*
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
 > *NOTE: Top languages does not indicate my skill level, it's a metric of which languages I have used the most in my GitHub Repos.*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
