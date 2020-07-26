@@ -14,8 +14,8 @@
 > *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have used the most in my GitHub Repos.*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=f3ve&show_icons=true&theme=merko&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=f3ve&show_icons=true&theme=merko&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3ve&theme=merko&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3ve&theme=merko&layout=compact" />
 </a>
