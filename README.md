@@ -1,6 +1,6 @@
 # Hi, I'm Freedom <img src="https://media.giphy.com/media/SuZY20qLNE3Hq/giphy.gif" width="80">
 
-<img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" alt="code gif" align="right" width="300">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="code gif" align="right" width="300">
 
 ###  **I'm a Full Stack Web Developer and I love cats.**
 
