@@ -11,9 +11,11 @@
 - <img src="https://media.giphy.com/media/1zjQF9DKLMO31jylKs/giphy.gif" width="30"> Find me around the internet: [Portfolio](https://f3ve.github.io/my-portfolio/), [LinkedIn](https://www.linkedin.com/in/freedom-evenden-dev/), [Medium](https://medium.com/@f3ve), [Twitter](https://twitter.com/tf3ve)
 - <img src="https://media.giphy.com/media/H6cwcPFMhZtrkRd56A/giphy.gif" width="30"> Pronouns: He/Him/His
 
+> *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have used the most in my GitHub Repos.*
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=f3ve" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=f3ve&show_icons=true&theme=merko&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3ve" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3ve&theme=merko&layout=compact" />
 </a>
