@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="code gif" align="right" width="300">
 
-## I'm a Full Stack Web Developer and I love cats.
+### I'm a Full Stack Web Developer and I love cats.
 
 <a href="https://www.linkedin.com/in/freedom-evenden-dev/">
   <img src="https://github.com/f3ve/f3ve/blob/master/assests/LinkedIn.svg" width="30" align="left"/>
