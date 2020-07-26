@@ -19,8 +19,6 @@
 
 <br />
 
-#### About Me
-
 - <img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="30"> I'm a recent graduate from Thinkful's Full Stack Engineering program
 - <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="30"> I'm a life-long learner, currently teaching myself SSR and how to create node modules.
 - <img src="https://media.giphy.com/media/LRIVkygJ5CID6IEMes/giphy.gif" width="30"> Currently reading _The known Citizen_ by Sarah E. Igo
@@ -50,6 +48,8 @@
 <code>
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 </code>
+
+#### GutHub Stats
 
 > _NOTE: Top languages does not indicate my skill level, it's a metric of which languages I have used the most in my GitHub Repos._
 
