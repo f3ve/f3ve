@@ -4,8 +4,6 @@
 
 ### **I'm a Full Stack Web Developer and I love cats.**
 
-#### Find Me Around The Web:
-
 <a href="https://www.linkedin.com/in/freedom-evenden-dev/">
   <img src="https://github.com/f3ve/f3ve/blob/master/assests/LinkedIn.svg" width="30" align="left"/>
 </a>
@@ -18,6 +16,8 @@
 <a href="https://f3ve.github.io/my-portfolio/">
   <img src="https://github.com/f3ve/f3ve/blob/master/assests/portfolio.svg" width="30" align="left"/>
 </a>
+
+<br />
 
 #### About Me
 
