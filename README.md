@@ -51,8 +51,6 @@
 
 #### _GutHub Stats:_
 
-> _Top languages does not indicate my skill level, it's a metric of which languages I have used the most in my GitHub Repos._
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=f3ve&show_icons=true&theme=merko&count_private=true" />
 </a>
