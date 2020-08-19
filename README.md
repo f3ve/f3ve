@@ -19,11 +19,10 @@
 
 ### I'm a Full Stack Web Developer and I love cats.
 
-- <img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="30"> I'm a recent graduate from Thinkful's Full Stack Engineering program
-- <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="30"> I'm a life-long learner, currently teaching myself SSR and how to create node modules.
+- <img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="30"> I'm a Full-Stack Software Engineer at Avybe. 
+- <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="30"> Passionate about programming and I love learning new things!
 - <img src="https://media.giphy.com/media/LRIVkygJ5CID6IEMes/giphy.gif" width="30"> Currently reading _The Light of the Stars_ by Adam Frank
 - <img src="https://media.giphy.com/media/YYbecrFqO7UUE/giphy.gif" width="30"> I love contributing to open source!
-- <img src="https://media.giphy.com/media/H6cwcPFMhZtrkRd56A/giphy.gif" width="30"> Pronouns: He/Him/His
 
 #### _Languages and Tools:_
 
