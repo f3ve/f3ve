@@ -17,7 +17,7 @@
 
 <br />
 
-### I'm a Full Stack Web Developer and I love cats.
+### I'm a Full Stack Software Engineer and I love cats.
 
 - <img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="30"> I'm a Full-Stack Software Engineer at Avybe. 
 - <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="30"> Passionate about programming and I love learning new things!
