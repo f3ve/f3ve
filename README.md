@@ -2,16 +2,16 @@
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="code gif" align="right" width="300">
 
-<a href="https://www.linkedin.com/in/freedom-evenden-dev/">
+<a href="https://www.linkedin.com/in/freedom-evenden-dev/" target="_blank" >
   <img src="https://github.com/f3ve/f3ve/blob/master/assests/LinkedIn.svg" width="30" align="left"/>
 </a>
-<a href="https://medium.com/@f3ve">
+<a href="https://medium.com/@f3ve" target="_blank" >
   <img src="https://github.com/f3ve/f3ve/blob/master/assests/medium.svg" width="30" align="left"/>
 </a>
-<a href="https://twitter.com/f3veDev">
+<a href="https://twitter.com/f3veDev" target="_blank" >
   <img src="https://github.com/f3ve/f3ve/blob/master/assests/twitter.svg" width="30" align="left"/>
 </a>
-<a href="https://freedomevenden.com">
+<a href="https://freedomevenden.com" target="_blank">
   <img src="https://github.com/f3ve/f3ve/blob/master/assests/portfolio.svg" width="30" align="left"/>
 </a>
 
