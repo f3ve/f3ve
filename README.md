@@ -8,10 +8,10 @@
 <a href="https://medium.com/@f3ve">
   <img src="https://github.com/f3ve/f3ve/blob/master/assests/medium.svg" width="30" align="left"/>
 </a>
-<a href="https://twitter.com/tf3ve">
+<a href="https://twitter.com/f3veDev">
   <img src="https://github.com/f3ve/f3ve/blob/master/assests/twitter.svg" width="30" align="left"/>
 </a>
-<a href="https://f3ve.github.io/my-portfolio/">
+<a href="https://freedomevenden.com">
   <img src="https://github.com/f3ve/f3ve/blob/master/assests/portfolio.svg" width="30" align="left"/>
 </a>
 
