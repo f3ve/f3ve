@@ -21,7 +21,7 @@
 
 - <img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="30"> Love JavaScript, React, Node, and Python. 
 - <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="30"> Passionate about programming and I love learning new things!
-- <img src="https://media.giphy.com/media/LRIVkygJ5CID6IEMes/giphy.gif" width="30"> Currently reading _The Light of the Stars_ by Adam Frank
+- <img src="https://media.giphy.com/media/LRIVkygJ5CID6IEMes/giphy.gif" width="30"> Currently reading _The Stand_ by Stephen King
 
 #### _Languages and Tools:_
 
