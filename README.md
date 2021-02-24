@@ -6,12 +6,3 @@
 <p align="center">
   Feel free to contact me on <a href="https://twitter.com/f3veDev">Twitter</a> or <a href="https://www.linkedin.com/in/freedom-evenden-dev/">LinkedIn</a>
 </p>
-
-## GitHub Stats:
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=f3ve&show_icons=true&theme=merko&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3ve&theme=merko&layout=compact" />
-</a>
