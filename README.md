@@ -4,7 +4,7 @@
 <p align="center">I'm Freedom</p>
 <p align="center">I write code and I love cats!</p>
 <p align="center">
-  Feel free to contact me on <a href="https://twitter.com/f3veDev">Twitter</a> or <a href="linkedin.com/in/freedom-evenden-dev/">LinkedIn</a>
+  Feel free to contact me on <a href="https://twitter.com/f3veDev">Twitter</a> or <a href="https://www.linkedin.com/in/freedom-evenden-dev/">LinkedIn</a>
 </p>
 
 ## GitHub Stats:
