@@ -1,27 +1,24 @@
-# Hi, I'm Freedom <img src="https://media.giphy.com/media/SuZY20qLNE3Hq/giphy.gif" width="80">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="code gif" align="right" width="300">
-
-<a href="https://www.linkedin.com/in/freedom-evenden-dev/">
+# Hi, I'm Freedom :wave:
+<a href="https://www.linkedin.com/in/freedom-evenden-dev/" aria-label="Freedom's LinkedIn profile" >
   <img src="https://github.com/f3ve/f3ve/blob/master/assests/LinkedIn.svg" width="30" align="left"/>
 </a>
-<a href="https://medium.com/@freedomevenden">
+<a href="https://medium.com/@freedomevenden" aria-label="Freedom's Medium profile" >
   <img src="https://github.com/f3ve/f3ve/blob/master/assests/medium.svg" width="30" align="left"/>
 </a>
-<a href="https://twitter.com/f3veDev">
+<a href="https://twitter.com/f3veDev" aria-label="Freedom's Twitter Profile" >
   <img src="https://github.com/f3ve/f3ve/blob/master/assests/twitter.svg" width="30" align="left"/>
 </a>
-<a href="https://freedomevenden.com">
+<a href="https://freedomevenden.com" aria-label="Freedom's Website" >
   <img src="https://github.com/f3ve/f3ve/blob/master/assests/portfolio.svg" width="30" align="left"/>
 </a>
 
 <br />
 
-### I'm a Full Stack Web Developer and I love cats.
+### I'm a Full Stack Web Developer
 
-- <img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="30"> Love JavaScript, React, Node, and Python. 
-- <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="30"> Passionate about programming and I love learning new things!
-- <img src="https://media.giphy.com/media/LRIVkygJ5CID6IEMes/giphy.gif" width="30"> Currently reading _The Stand_ by Stephen King
+- :computer: Experience building web apps with React, Vue, Node, Python, and Django 
+- :iphone: Experience building Mobile Apps with React-Native
+- ::
 
 #### _Languages and Tools:_
 
