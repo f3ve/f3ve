@@ -1,53 +1,40 @@
-# Hi, I'm Freedom :wave:
-<a href="https://www.linkedin.com/in/freedom-evenden-dev/" aria-label="Freedom's LinkedIn profile" >
-  <img src="https://github.com/f3ve/f3ve/blob/master/assests/LinkedIn.svg" width="30" align="left"/>
-</a>
-<a href="https://medium.com/@freedomevenden" aria-label="Freedom's Medium profile" >
-  <img src="https://github.com/f3ve/f3ve/blob/master/assests/medium.svg" width="30" align="left"/>
-</a>
-<a href="https://twitter.com/f3veDev" aria-label="Freedom's Twitter Profile" >
-  <img src="https://github.com/f3ve/f3ve/blob/master/assests/twitter.svg" width="30" align="left"/>
-</a>
-<a href="https://freedomevenden.com" aria-label="Freedom's Website" >
-  <img src="https://github.com/f3ve/f3ve/blob/master/assests/portfolio.svg" width="30" align="left"/>
-</a>
+![Twitter header - 1](https://user-images.githubusercontent.com/56381169/109056071-d4a8c600-7694-11eb-964f-a490f54780cd.png)
 
-<br />
+# Hello :wave:
 
-### I'm a Full Stack Web Developer
+<code>
+  <a href="https://www.linkedin.com/in/freedom-evenden-dev/" aria-label="Freedom's LinkedIn profile" >
+    <img src="https://github.com/f3ve/f3ve/blob/master/assests/LinkedIn.svg" width="30" align="left"/>
+  </a>
+  <a href="https://medium.com/@freedomevenden" aria-label="Freedom's Medium profile" >
+    <img src="https://github.com/f3ve/f3ve/blob/master/assests/medium.svg" width="30" align="left"/>
+  </a>
+  <a href="https://twitter.com/f3veDev" aria-label="Freedom's Twitter Profile" >
+    <img src="https://github.com/f3ve/f3ve/blob/master/assests/twitter.svg" width="30" align="left"/>
+  </a>
+  <a href="https://freedomevenden.com" aria-label="Freedom's Website" >
+    <img src="https://github.com/f3ve/f3ve/blob/master/assests/portfolio.svg" width="30" align="left"/>
+  </a>
+</code>
 
-- :computer: Experience building web apps with React, Vue, Node, Python, and Django 
-- :iphone: Experience building Mobile Apps with React-Native
-- ::
+
+### About Me
+
+- :computer: Full-Stack Web Developer
+- :nerd_face: Love Ubuntu
 
 #### _Languages and Tools:_
 
 <code>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-</code>
-<code>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-</code>
-<code>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-</code>
-<code>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-</code>
-<code>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-</code>
-<code>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-</code>
-<code>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
-</code>
-<code>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
-</code>
-<code>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 </code>
 
 
