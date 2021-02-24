@@ -1,7 +1,7 @@
 <h1 align="center">Hello! :wave:</h1>
-<p align="center">I'm Freedom</p>
-<p align="center">I write code and I love cats!</p>
-<p align="center ">Please feel free to contact me at any of the links below</p>
+<p align="center">I'm Freedom :nerd_face:</p>
+<p align="center">I write code and I love cats! :cat:</p>
+<p align="center ">Feel free to contact me at any of the links below :point_down:</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/freedom-evenden-dev/" aria-label="View Freedom's LinkedIn profile">
