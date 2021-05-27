@@ -13,7 +13,3 @@
   <a href="https://twitter.com/f3veDev" aria-label="view Freedom's Twitter profile" >
     <img src="./assests/twitter.svg" alt="Twitter" height="50" />
   </a>
-  <a href="https://freedomevenden.medium.com/" aria-label="view Freedom's Medium Profile" >
-    <img src="./assests/medium.svg" alt="Medium" height="50" />
-  </a>
-</p>
